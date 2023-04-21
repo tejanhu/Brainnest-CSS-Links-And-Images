@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(232, 247, 213);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a{
+    color:rgb(145, 138, 138);
+    font-size: 25px;
+}
+
+*{
+    border: 4px solid black;
+}
+
+img{
+    border-radius: 6px;
+}
